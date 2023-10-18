@@ -1,306 +1,52 @@
 Title,Location,Description,nTile10,nTile25,nTile50,nTile75,nTile90
-Business Analyst,"New York, NY",,79203,87613,96850,107452,117105
-Business Analyst,"Los Angeles, CA",,75677,83713,92539,102670,111893
-Business Analyst,"Chicago, IL",,71107,78658,86951,96469,105135
-Business Analyst,"Houston, TX",,68586,75869,83868,93049,101408
-Business Analyst,"Phoenix, AZ",,66587,73658,81424,90338,98453
-Business Analyst,"Philadelphia, PA",,71532,79127,87470,97046,105763
-Business Analyst,"San Antonio, TX",,65007,71910,79491,88193,96116
-Business Analyst,"San Diego, CA",,72742,80467,88951,98688,107553
-Business Analyst,"Dallas, TX",,66968,74079,81890,90854,99016
-Business Analyst,"San Jose, CA",,84595,93578,103444,114768,125078
-Business Analyst,"Austin, TX",,66294,73334,81066,89940,98019
-Business Analyst,"Jacksonville, FL",,64090,70896,78370,86950,94760
-Business Analyst,"Fort Worth, TX",,65681,72656,80316,89109,97113
-Business Analyst,"Columbus, OH",,66184,73212,80931,89791,97857
-Business Analyst,"Charlotte, NC",,65848,72840,80520,89335,97360
-Business Analyst,"San Francisco, CA",,84258,93205,103032,114311,124580
-Business Analyst,"Indianapolis, IN",,65586,72551,80200,88980,96973
-Business Analyst,"Seattle, WA",,74376,82274,90949,100905,109969
-Business Analyst,"Denver, CO",,68505,75779,83769,92939,101288
-Business Analyst,"Washington, DC",,75037,83005,91756,101801,110946
-Business Analyst,"Boston, MA",,75947,84011,92869,103035,112291
-Business Analyst,"El Paso, TX",,58958,65219,72095,79988,87173
-Business Analyst,"Nashville, TN",,62846,69519,76849,85261,92921
-Business Analyst,"Detroit, MI",,68155,75392,83341,92464,100770
-Business Analyst,"Oklahoma City, OK",,61576,68114,75296,83539,91043
-Business Analyst,"Portland, OR",,70225,77682,85872,95272,103831
-Business Analyst,"Las Vegas, NV",,68519,75794,83786,92958,101308
-Business Analyst,"Memphis, TN",,62466,69099,76384,84746,92358
-Business Analyst,"Louisville, KY",,63989,70784,78247,86812,94611
-Business Analyst,"Baltimore, MD",,69294,76652,84734,94009,102454
-Business Analyst,"Milwaukee, WI",,66711,73795,81576,90506,98636
-Business Analyst,"Albuquerque, NM",,63378,70108,77500,85984,93708
-Business Analyst,"Tucson, AZ",,63942,70731,78189,86748,94541
-Business Analyst,"Fresno, CA",,67541,74713,82591,91632,99863
-Business Analyst,"Mesa, AZ",,66598,73669,81437,90351,98468
-Business Analyst,"Sacramento, CA",,72994,80745,89259,99030,107926
-Business Analyst,"Atlanta, GA",,66206,73236,80958,89820,97889
-Business Analyst,"Kansas City, MO",,66105,73125,80835,89684,97740
-Business Analyst,"Colorado Springs, CO",,67090,74214,82038,91019,99195
-Business Analyst,"Omaha, NE",,63729,70496,77929,86459,94226
-Business Analyst,"Raleigh, NC",,65701,72678,80340,89135,97142
-Business Analyst,"Miami, FL",,65419,72365,79995,88752,96725
-Business Analyst,"Long Beach, CA",,75158,83139,91905,101965,111125
-Business Analyst,"Virginia Beach, VA",,64441,71283,78799,87425,95279
-Business Analyst,"Oakland, CA",,82236,90968,100559,111568,121590
-Business Analyst,"Minneapolis, MN",,71815,79441,87816,97430,106182
-Business Analyst,"Tulsa, OK",,64198,71015,78502,87096,94920
-Business Analyst,"Tampa, FL",,64157,70970,78453,87041,94860
-Business Analyst,"Arlington, TX",,65574,72537,80185,88962,96954
-Business Analyst,"New Orleans, LA",,65993,73000,80697,89531,97574
-Business Analyst,"Wichita, KS",,63564,70314,77728,86236,93983
-Business Analyst,"Bakersfield, CA",,72192,79858,88278,97942,106740
-Business Analyst,"Cleveland, OH",,66540,73606,81367,90274,98383
-Business Analyst,"Aurora, CO",,68460,75730,83714,92878,101222
-Business Analyst,"Anaheim, CA",,75327,83325,92111,102194,111374
-Business Analyst,"Honolulu, HI",,70298,77763,85962,95372,103939
-Business Analyst,"Santa Ana, CA",,75226,83214,91987,102057,111225
-Business Analyst,"Riverside, CA",,72111,79769,88179,97832,106620
-Business Analyst,"Corpus Christi, TX",,63268,69986,77365,85834,93544
-Business Analyst,"Lexington, KY",,63207,69919,77291,85752,93455
-Business Analyst,"Henderson, NV",,68249,75496,83456,92592,100910
-Business Analyst,"Stockton, CA",,72037,79687,88088,97731,106511
-Business Analyst,"Saint Paul, MN",,71815,79441,87816,97430,106182
-Business Analyst,"Cincinnati, OH",,65917,72916,80604,89428,97461
-Business Analyst,"Pittsburgh, PA",,66395,73446,81189,90077,98169
-Business Analyst,"Greensboro, NC",,64420,71260,78773,87397,95248
-Business Analyst,"Lincoln, NE",,63166,69873,77240,85696,93394
-Business Analyst,"Anchorage, AK",,74969,82930,91674,101709,110846
-Business Analyst,"Plano, TX",,66968,74079,81890,90854,99016
-Business Analyst,"Orlando, FL",,64030,70829,78297,86868,94672
-Business Analyst,"Irvine, CA",,75158,83139,91905,101965,111125
-Business Analyst,"Newark, NJ",,76304,84407,93306,103520,112819
-Business Analyst,"Durham, NC",,65309,72244,79861,88603,96562
-Business Analyst,"Chula Vista, CA",,72742,80467,88951,98688,107553
-Business Analyst,"Toledo, OH",,65135,72051,79648,88367,96305
-Business Analyst,"Fort Wayne, IN",,62884,69562,76896,85314,92977
-Business Analyst,"Laredo, TX",,60079,66459,73466,81508,88830
-Business Analyst,"Jersey City, NJ",,79203,87613,96850,107452,117105
-Business Analyst,"Chandler, AZ",,66598,73669,81437,90351,98468
-Business Analyst,"Madison, WI",,66047,73061,80764,89605,97655
-Business Analyst,"Lubbock, TX",,60713,67160,74241,82368,89767
-Business Analyst,"Scottsdale, AZ",,66598,73669,81437,90351,98468
-Business Analyst,"Reno, NV",,68040,75265,83201,92308,100601
-Business Analyst,"Buffalo, NY",,65810,72798,80474,89283,97304
-Business Analyst,"Gilbert, AZ",,66598,73669,81437,90351,98468
-Business Analyst,"Glendale, AZ",,66587,73658,81424,90338,98453
-Business Analyst,"North Las Vegas, NV",,68519,75794,83786,92958,101308
-Business Analyst,"Chesapeake, VA",,63389,70120,77513,85998,93724
-Business Analyst,"Norfolk, VA",,63470,70210,77612,86108,93843
-Business Analyst,"Fremont, CA",,84433,93399,103247,114549,124839
-Business Analyst,"Garland, TX",,66968,74079,81890,90854,99016
-Business Analyst,"Irving, TX",,66968,74079,81890,90854,99016
-Business Analyst,"Hialeah, FL",,65115,72029,79623,88340,96275
-Business Analyst,"Richmond, VA",,66584,73654,81420,90333,98448
-Business Analyst,"Boise, ID",,62774,69439,76761,85164,92814
-Business Analyst,"Spokane, WA",,66355,73401,81140,90022,98109
-Business Analyst,"Baton Rouge, LA",,63349,70075,77464,85944,93664
-Business Analyst,"Tacoma, WA",,72490,80188,88642,98346,107181
-Business Analyst,"San Bernardino, CA",,71811,79436,87811,97424,106176
-Business Analyst,"Modesto, CA",,71545,79142,87487,97064,105783
-Business Analyst,"Fontana, CA",,72111,79769,88179,97832,106620
-Business Analyst,"Des Moines, IA",,65096,72008,79600,88314,96247
-Business Analyst,"Moreno Valley, CA",,72057,79709,88113,97759,106541
-Business Analyst,"Santa Clarita, CA",,74705,82638,91351,101351,110455
-Business Analyst,"Fayetteville, NC",,61852,68420,75634,83913,91452
-Business Analyst,"Birmingham, AL",,63618,70374,77793,86309,94063
-Business Analyst,"Oxnard, CA",,72260,79933,88360,98033,106840
-Business Analyst,"Rochester, NY",,66449,73505,81255,90149,98248
-Business Analyst,"Grand Rapids, MI",,65371,72312,79937,88687,96654
-Business Analyst,"Huntsville, AL",,64461,71306,78824,87453,95309
-Business Analyst,"Salt Lake City, UT",,64664,71530,79072,87728,95609
-Business Analyst,"Frisco, TX",,66860,73960,81758,90708,98857
-Business Analyst,"Yonkers, NY",,77697,85947,95009,105409,114879
-Business Analyst,"Amarillo, TX",,61812,68375,75584,83859,91392
-Business Analyst,"Glendale, CA",,75677,83713,92539,102670,111893
-Business Analyst,"Huntington Beach, CA",,75158,83139,91905,101965,111125
-Business Analyst,"Mckinney, TX",,66753,73841,81626,90562,98697
-Business Analyst,"Montgomery, AL",,60450,66869,73919,82011,89379
-Business Analyst,"Augusta, GA",,63079,69777,77134,85578,93265
-Business Analyst,"Aurora, IL",,70506,77993,86216,95654,104246
-Business Analyst,"Akron, OH",,64717,71589,79137,87800,95687
-Business Analyst,"Little Rock, AR",,62244,68854,76114,84446,92032
-Business Analyst,"Tempe, AZ",,66598,73669,81437,90351,98468
-Business Analyst,"Columbus, GA",,61304,67814,74964,83170,90641
-Business Analyst,"Overland Park, KS",,65896,72894,80579,89400,97431
-Business Analyst,"Grand Prairie, TX",,66825,73921,81714,90660,98804
-Business Analyst,"Tallahassee, FL",,60732,67181,74265,82394,89796
-Business Analyst,"Cape Coral, FL",,63084,69783,77141,85585,93273
-Business Analyst,"Mobile, AL",,62337,68957,76227,84572,92169
-Business Analyst,"Knoxville, TN",,61845,68413,75626,83904,91442
-Business Analyst,"Shreveport, LA",,61973,68554,75782,84078,91631
-Business Analyst,"Worcester, MA",,71134,78687,86984,96506,105175
-Business Analyst,"Ontario, CA",,72004,79649,88047,97686,106461
-Business Analyst,"Vancouver, WA",,70045,77483,85653,95029,103566
-Business Analyst,"Sioux Falls, SD",,60511,66936,73994,82094,89468
-Business Analyst,"Chattanooga, TN",,60773,67226,74314,82449,89856
-Business Analyst,"Brownsville, TX",,58987,65251,72131,80027,87216
-Business Analyst,"Fort Lauderdale, FL",,65458,72409,80044,88806,96784
-Business Analyst,"Providence, RI",,70978,78515,86794,96295,104945
-Business Analyst,"Newport News, VA",,63820,70597,78041,86584,94362
-Business Analyst,"Rancho Cucamonga, CA",,71759,79379,87748,97354,106099
-Business Analyst,"Santa Rosa, CA",,74498,82408,91097,101069,110148
-Business Analyst,"Peoria, AZ",,66453,73509,81259,90155,98254
-Business Analyst,"Oceanside, CA",,72847,80582,89078,98830,107708
-Business Analyst,"Elk Grove, CA",,72887,80626,89127,98884,107767
-Business Analyst,"Salem, OR",,66576,73645,81410,90322,98436
-Business Analyst,"Pembroke Pines, FL",,65034,71939,79524,88230,96156
-Business Analyst,"Eugene, OR",,66341,73386,81123,90004,98089
-Business Analyst,"Garden Grove, CA",,75327,83325,92111,102194,111374
-Business Analyst,"Cary, NC",,65701,72678,80340,89135,97142
-Business Analyst,"Fort Collins, CO",,66112,73132,80843,89693,97750
-Business Analyst,"Corona, CA",,72419,80109,88556,98250,107076
-Business Analyst,"Springfield, MO",,63012,69702,77052,85486,93166
-Business Analyst,"Jackson, MS",,60333,66739,73776,81852,89205
-Business Analyst,"Alexandria, VA",,75037,83005,91756,101801,110946
-Business Analyst,"Hayward, CA",,82101,90819,100395,111385,121391
-Business Analyst,"Clarksville, TN",,61225,67727,74867,83063,90525
-Business Analyst,"Lancaster, CA",,75273,83266,92045,102121,111295
-Business Analyst,"Salinas, CA",,74682,82613,91323,101320,110422
-Business Analyst,"Palmdale, CA",,74902,82856,91592,101618,110746
-Business Analyst,"Hollywood, FL",,65458,72409,80044,88806,96784
-Business Analyst,"Springfield, MA",,70423,77901,86114,95541,104124
-Business Analyst,"Macon, GA",,62612,69261,76564,84945,92576
-Business Analyst,"Kansas City, KS",,66092,73110,80818,89666,97720
-Business Analyst,"Sunnyvale, CA",,84595,93578,103444,114768,125078
-Business Analyst,"Pomona, CA",,74876,82827,91560,101583,110709
-Business Analyst,"Killeen, TX",,61289,67797,74945,83149,90618
-Business Analyst,"Escondido, CA",,72338,80019,88456,98139,106955
-Business Analyst,"Pasadena, TX",,68334,75590,83560,92707,101035
-Business Analyst,"Naperville, IL",,69801,77213,85354,94698,103205
-Business Analyst,"Bellevue, WA",,74376,82274,90949,100905,109969
-Business Analyst,"Joliet, IL",,69303,76662,84744,94021,102467
-Business Analyst,"Murfreesboro, TN",,62374,68997,76272,84621,92223
-Business Analyst,"Midland, TX",,60174,66563,73581,81636,88970
-Business Analyst,"Rockford, IL",,66382,73431,81173,90059,98149
-Business Analyst,"Paterson, NJ",,77720,85972,95037,105441,114912
-Business Analyst,"Savannah, GA",,63338,70064,77451,85930,93649
-Business Analyst,"Bridgeport, CT",,76574,84705,93636,103886,113218
-Business Analyst,"Torrance, CA",,75158,83139,91905,101965,111125
-Business Analyst,"Mcallen, TX",,57970,64125,70886,78646,85711
-Business Analyst,"Syracuse, NY",,67038,74157,81976,90950,99120
-Business Analyst,"Surprise, AZ",,66003,73012,80710,89545,97589
-Business Analyst,"Denton, TX",,66026,73037,80738,89576,97623
-Business Analyst,"Roseville, CA",,72806,80537,89028,98774,107647
-Business Analyst,"Thornton, CO",,68505,75779,83769,92939,101288
-Business Analyst,"Pasadena, CA",,75677,83713,92539,102670,111893
-Business Analyst,"Mesquite, TX",,66897,74000,81803,90757,98910
-Business Analyst,"Olathe, KS",,65717,72695,80360,89157,97166
-Business Analyst,"Dayton, OH",,65391,72335,79961,88715,96684
-Business Analyst,"Carrollton, TX",,66933,74040,81846,90806,98963
-Business Analyst,"Waco, TX",,61116,67606,74734,82915,90363
-Business Analyst,"Orange, CA",,75158,83139,91905,101965,111125
-Business Analyst,"Fullerton, CA",,75327,83325,92111,102194,111374
-Business Analyst,"Charleston, SC",,64012,70809,78275,86843,94645
-Business Analyst,"Visalia, CA",,67137,74266,82096,91083,99265
-Business Analyst,"Hampton, VA",,63820,70597,78041,86584,94362
-Business Analyst,"Gainesville, FL",,61333,67846,74999,83209,90684
-Business Analyst,"Warren, MI",,68155,75392,83341,92464,100770
-Business Analyst,"Coral Springs, FL",,65458,72409,80044,88806,96784
-Business Analyst,"Cedar Rapids, IA",,64494,71343,78865,87498,95358
-Business Analyst,"Round Rock, TX",,66043,73056,80758,89599,97648
-Business Analyst,"Sterling Heights, MI",,67939,75153,83077,92171,100451
-Business Analyst,"Kent, WA",,72346,80028,88466,98150,106967
-Business Analyst,"Columbia, SC",,62461,69094,76379,84740,92353
-Business Analyst,"Santa Clara, CA",,84595,93578,103444,114768,125078
-Business Analyst,"New Haven, CT",,73048,80805,89325,99103,108006
-Business Analyst,"Stamford, CT",,77569,85805,94852,105236,114689
-Business Analyst,"Concord, CA",,76498,84621,93543,103783,113106
-Business Analyst,"Elizabeth, NJ",,76304,84407,93306,103520,112819
-Business Analyst,"Athens, GA",,65734,72714,80381,89180,97191
-Business Analyst,"Thousand Oaks, CA",,73163,80932,89465,99259,108175
-Business Analyst,"Lafayette, LA",,61459,67985,75153,83380,90871
-Business Analyst,"Simi Valley, CA",,73655,81476,90067,99926,108903
-Business Analyst,"Topeka, KS",,62344,68964,76236,84581,92179
-Business Analyst,"Norman, OK",,61171,67667,74801,82990,90445
-Business Analyst,"Fargo, ND",,63241,69956,77332,85797,93505
-Business Analyst,"Wilmington, NC",,62088,68681,75922,84234,91800
-Business Analyst,"Abilene, TX",,60949,67421,74529,82688,90116
-Business Analyst,"Odessa, TX",,60174,66563,73581,81636,88970
-Business Analyst,"Columbia, MO",,65605,72571,80223,89004,97000
-Business Analyst,"Pearland, TX",,68370,75630,83604,92757,101089
-Business Analyst,"Victorville, CA",,71530,79125,87468,97043,105760
-Business Analyst,"Hartford, CT",,72988,80738,89251,99021,107916
-Business Analyst,"Vallejo, CA",,75832,83885,92729,102880,112122
-Business Analyst,"Allentown, PA",,67932,75146,83069,92162,100441
-Business Analyst,"Berkeley, CA",,82236,90968,100559,111568,121590
-Business Analyst,"Richardson, TX",,66968,74079,81890,90854,99016
-Business Analyst,"Arvada, CO",,68505,75779,83769,92939,101288
-Business Analyst,"Ann Arbor, MI",,69557,76943,85055,94366,102843
-Business Analyst,"Rochester, MN",,67575,74750,82632,91677,99913
-Business Analyst,"Cambridge, MA",,75947,84011,92869,103035,112291
-Business Analyst,"Sugar Land, TX",,68370,75630,83604,92757,101089
-Business Analyst,"Lansing, MI",,65249,72178,79788,88522,96475
-Business Analyst,"Evansville, IN",,63711,70476,77906,86435,94199
-Business Analyst,"College Station, TX",,60356,66765,73804,81883,89239
-Business Analyst,"Fairfield, CA",,75617,83646,92465,102587,111803
-Business Analyst,"Clearwater, FL",,63894,70679,78131,86683,94470
-Business Analyst,"Beaumont, TX",,65377,72320,79945,88696,96664
-Business Analyst,"Independence, MO",,66034,73046,80748,89587,97635
-Business Analyst,"Provo, UT",,61980,68562,75790,84087,91641
-Business Analyst,"West Jordan, UT",,64430,71272,78787,87411,95264
-Business Analyst,"Murrieta, CA",,73515,81322,89896,99737,108696
-Business Analyst,"Palm Bay, FL",,61569,68107,75288,83529,91033
-Business Analyst,"El Monte, CA",,75596,83624,92441,102560,111773
-Business Analyst,"Carlsbad, CA",,72338,80019,88456,98139,106955
-Business Analyst,"North Charleston, SC",,64012,70809,78275,86843,94645
-Business Analyst,"Temecula, CA",,72502,80200,88656,98361,107197
-Business Analyst,"Clovis, CA",,67326,74475,82327,91339,99544
-Business Analyst,"Springfield, IL",,63787,70560,78000,86538,94312
-Business Analyst,"Meridian, ID",,62706,69365,76678,85072,92714
-Business Analyst,"Westminster, CO",,68505,75779,83769,92939,101288
-Business Analyst,"Costa Mesa, CA",,75158,83139,91905,101965,111125
-Business Analyst,"High Point, NC",,64805,71686,79244,87919,95817
-Business Analyst,"Manchester, NH",,69159,76503,84569,93827,102255
-Business Analyst,"Pueblo, CO",,63254,69971,77348,85816,93525
-Business Analyst,"Lakeland, FL",,63725,70491,77924,86454,94220
-Business Analyst,"Pompano Beach, FL",,65458,72409,80044,88806,96784
-Business Analyst,"West Palm Beach, FL",,65746,72728,80396,89196,97209
-Business Analyst,"Antioch, CA",,77593,85832,94882,105269,114725
-Business Analyst,"Everett, WA",,73042,80798,89317,99094,107996
-Business Analyst,"Downey, CA",,75324,83322,92108,102190,111370
-Business Analyst,"Lowell, MA",,73534,81342,89918,99762,108723
-Business Analyst,"Elgin, IL",,69956,77385,85544,94908,103434
-Business Analyst,"Richmond, CA",,82306,91046,100645,111663,121694
-Business Analyst,"Peoria, IL",,65108,72021,79615,88330,96265
-Business Analyst,"Broken Arrow, OK",,63996,70791,78255,86822,94621
-Business Analyst,"Miami Gardens, FL",,65115,72029,79623,88340,96275
-Business Analyst,"Billings, MT",,64845,71731,79294,87974,95877
-Business Analyst,"Gresham, OR",,70135,77582,85762,95151,103698
-Business Analyst,"Lewisville, TX",,66717,73801,81583,90513,98644
-Business Analyst,"Hillsboro, OR",,70000,77433,85598,94968,103499
-Business Analyst,"Ventura, CA",,72260,79933,88360,98033,106840
-Business Analyst,"Greeley, CO",,66258,73294,81022,89891,97967
-Business Analyst,"Inglewood, CA",,75677,83713,92539,102670,111893
-Business Analyst,"Waterbury, CT",,72665,80381,88856,98583,107439
-Business Analyst,"League City, TX",,68158,75395,83345,92468,100775
-Business Analyst,"Santa Maria, CA",,73155,80924,89456,99249,108164
-Business Analyst,"Tyler, TX",,61004,67482,74597,82763,90198
-Business Analyst,"Lakewood, NJ",,75219,83207,91980,102049,111216
-Business Analyst,"Daly City, CA",,84258,93205,103032,114311,124580
-Business Analyst,"Boulder, CO",,69119,76458,84519,93772,102195
-Business Analyst,"Allen, TX",,66968,74079,81890,90854,99016
-Business Analyst,"West Covina, CA",,75165,83146,91913,101975,111135
-Business Analyst,"Sparks, NV",,68040,75265,83201,92308,100601
-Business Analyst,"Wichita Falls, TX",,61549,68084,75263,83502,91003
-Business Analyst,"Green Bay, WI",,64663,71529,79071,87727,95608
-Business Analyst,"San Mateo, CA",,83085,91908,101598,112720,122846
-Business Analyst,"Norwalk, CA",,75229,83217,91991,102061,111230
-Business Analyst,"Rialto, CA",,71811,79436,87811,97424,106176
-Business Analyst,"Las Cruces, NM",,57295,63379,70062,77732,84714
-Business Analyst,"Chico, CA",,68796,76101,84125,93334,101718
-Business Analyst,"El Cajon, CA",,72527,80228,88687,98395,107234
-Business Analyst,"Burbank, CA",,75677,83713,92539,102670,111893
-Business Analyst,"South Bend, IN",,63557,70306,77719,86227,93973
-Business Analyst,"Renton, WA",,74304,82194,90860,100807,109862
-Business Analyst,"Vista, CA",,72338,80019,88456,98139,106955
-Business Analyst,"Davenport, IA",,63973,70767,78228,86791,94588
-Business Analyst,"Edinburg, TX",,57970,64125,70886,78646,85711
-Business Analyst,"Tuscaloosa, AL",,63196,69907,77277,85737,93439
-Business Analyst,"Carmel, IN",,65506,72461,80101,88870,96853
-Business Analyst,"San Angelo, TX",,60410,66824,73870,81956,89319
-Business Analyst,"Vacaville, CA",,75369,83372,92163,102252,111437
-Business Analyst,"Clinton, MI",,69233,76585,84660,93927,102365
-Business Analyst,"Bend, OR",,65594,72559,80209,88990,96984
-Business Analyst,"Woodbridge, NJ",,75630,83661,92482,102606,111823
+Business Analyst,Alaska,,73540,81349,89927,99771,108733
+Business Analyst,Maine,,64980,71880,79458,88157,96076
+Business Analyst,Vermont,,64912,71805,79376,88065,95976
+Business Analyst,New Hampshire,,68296,75548,83514,92656,100979
+Business Analyst,Washington,,72320,80000,88435,98115,106929
+Business Analyst,Idaho,,62584,69230,76529,84907,92534
+Business Analyst,Montana,,61622,68166,75353,83602,91112
+Business Analyst,North Dakota,,64724,71596,79145,87809,95697
+Business Analyst,Minnesota,,69078,76413,84470,93717,102136
+Business Analyst,Illinois,,69260,76615,84692,93964,102405
+Business Analyst,Wisconsin,,66395,73446,81189,90077,98169
+Business Analyst,Michigan,,66852,73951,81748,90697,98845
+Business Analyst,New York,,71929,79567,87957,97585,106351
+Business Analyst,Rhode Island,,70642,78143,86382,95838,104448
+Business Analyst,Massachusetts,,73358,81148,89704,99524,108464
+Business Analyst,Oregon,,67770,74967,82871,91943,100202
+Business Analyst,Nevada,,68134,75369,83316,92436,100740
+Business Analyst,Wyoming,,62000,68584,75815,84115,91671
+Business Analyst,South Dakota,,59399,65706,72634,80585,87824
+Business Analyst,Iowa,,64508,71358,78881,87517,95378
+Business Analyst,Indiana,,65735,72715,80382,89181,97192
+Business Analyst,Ohio,,66110,73130,80841,89690,97747
+Business Analyst,Pennsylvania,,67272,74415,82261,91266,99465
+Business Analyst,New Jersey,,74208,82088,90743,100676,109720
+Business Analyst,Connecticut,,72651,80365,88838,98564,107418
+Business Analyst,California,,74349,82244,90916,100868,109929
+Business Analyst,Utah,,63781,70553,77992,86530,94303
+Business Analyst,Colorado,,68101,75332,83275,92391,100690
+Business Analyst,Nebraska,,63247,69963,77340,85806,93515
+Business Analyst,Missouri,,64228,71048,78539,87137,94965
+Business Analyst,Kentucky,,63429,70165,77563,86053,93784
+Business Analyst,West Virginia,,60698,67143,74223,82348,89745
+Business Analyst,Virginia,,67002,74117,81931,90900,99066
+Business Analyst,Maryland,,69500,76880,84986,94289,102759
+Business Analyst,Delaware,,68856,76167,84198,93415,101807
+Business Analyst,Arizona,,66018,73028,80728,89565,97611
+Business Analyst,New Mexico,,62176,68778,76030,84352,91930
+Business Analyst,Kansas,,64184,71000,78486,87078,94900
+Business Analyst,Arkansas,,61427,67950,75115,83337,90824
+Business Analyst,Tennessee,,61967,68547,75774,84069,91621
+Business Analyst,North Carolina,,64710,71582,79129,87791,95677
+Business Analyst,South Carolina,,63639,70397,77819,86338,94094
+Business Analyst,District of Columbia,,75037,83005,91756,101801,110946
+Business Analyst,Oklahoma,,62325,68943,76212,84555,92150
+Business Analyst,Louisiana,,64090,70896,78370,86950,94760
+Business Analyst,Mississippi,,60113,66496,73507,81554,88880
+Business Analyst,Alabama,,61926,68502,75725,84014,91561
+Business Analyst,Georgia,,65406,72352,79980,88736,96707
+Business Analyst,Hawaii,,70723,78233,86481,95948,104567
+Business Analyst,Texas,,66260,73296,81025,89894,97970
+Business Analyst,Florida,,64036,70836,78304,86876,94681
